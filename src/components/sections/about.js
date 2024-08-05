@@ -135,21 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Manish and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Manish, and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2020 when I began experimenting with HTML
+              &amp; CSS in college projects. Those early experiences taught me a lot about creating
+              responsive and visually appealing web pages.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.mcconeproperties.com/">McCone</a>,{' '}
-              {/* <a href="https://starry.com/">a start-up</a>,{' '}
+              <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. */}
+              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>.
               My main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://www.sparxitsolutions.com/">SparxIT</a> for a variety
-              of clients.
+              of clients. */}
+              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a href="https://www.sparxitsolutions.com/">SparxIT</a>, My main focus these days is
+              building accessible, inclusive products and digital experiences for a variety of
+              clients across industries like e-commerce, healthcare, and education.
             </p>
 
             {/* <p>

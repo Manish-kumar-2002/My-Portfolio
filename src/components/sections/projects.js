@@ -305,7 +305,11 @@ const Projects = () => {
         )}
       </ul>
 
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
+      <button
+        className="more-button"
+        onClick={() => setShowMore(!showMore)}
+        style={{ display: 'none' }}
+      >
         Show {showMore ? 'Less' : 'More'}
       </button>
     </StyledProjectsSection>

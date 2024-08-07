@@ -2,8 +2,9 @@
 date: '3'
 title: 'Practice Clinic (body part guards)'
 cover: './demo-img.png'
+github: ''
 external: 'https://dev.demosparx.in/CSS8027'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: ''
 tech:
   - HTML
   - CSS

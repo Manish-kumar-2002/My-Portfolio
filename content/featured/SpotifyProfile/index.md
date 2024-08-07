@@ -3,7 +3,7 @@ date: '2'
 title: 'Teppich Stark'
 # https://www.stark-home.de/
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://css8156.uatsparxit.com/'
 tech:
   - HTML

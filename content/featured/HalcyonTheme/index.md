@@ -2,7 +2,7 @@
 date: '1'
 title: 'Hypothesis'
 cover: './hypothesis.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: ''
 external: 'https://648091260d1713066eef5d7e--spontaneous-taffy-0e2d20.netlify.app/'
 tech:
   - HTML

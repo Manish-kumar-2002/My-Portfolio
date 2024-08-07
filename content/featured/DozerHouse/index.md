@@ -2,7 +2,7 @@
 date: '4'
 title: 'Dozer House'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://dozerhouse.devsparxit.com/'
 tech:
   - React

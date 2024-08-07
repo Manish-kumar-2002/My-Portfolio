@@ -2,7 +2,7 @@
 date: '5'
 title: 'carorbis'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://sis1037-frontend.uatsparxit.com'
 tech:
   - React
